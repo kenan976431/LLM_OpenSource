@@ -1,19 +1,49 @@
-# AIGC-LLM_OpenSource
+# LLM_OpenSource
 
-# LLM
 ## LLM Model
+
+### OpenAI
+- GPT-3.5
+- GPT-4
+
+### Google
+- Bard
+- Gemini
+
+### 百度
+
+### 阿里
 
 ## LLM Attack
 
+### Toxicity
+
+### Jailbreaks
+
+### Hallucination
+
+### Fairness&Bias
+
+### Privacy
+
+### Deception
+
+### Robustness
+
 ## LLM Defense
+
+### ...
 
 ## LLM Dataset
 
-# T2I/I2I/I2T
-## AIGC Model
+### CommonCrawl
+- Colossal Clean Crawled Corpus (C4)
+- CCStories
+- CC-News
+- RealNews
 
-## AIGC Attack
+### Reddit Link
 
-## AIGC Defense
+### Wiki
 
-## AIGC Dataset 
+### Book
