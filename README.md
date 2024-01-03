@@ -38,11 +38,11 @@
 
 ### CommonCrawl
 Common Crawl homepage: https://commoncrawl.org/  
-- Colossal Clean Crawled Corpus (C4)
+- Colossal Clean Crawled Corpus (C4)  
  Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer  
  paper: https://paperswithcode.com/paper/exploring-the-limits-of-transfer-learning  
  download dataset: https://paperswithcode.com/dataset/c4  
-- CCStories
+- CCStories  
  A Simple Method for Commonsense Reasoning  
  paper: https://paperswithcode.com/paper/a-simple-method-for-commonsense-reasoning  
  download dataset: https://huggingface.co/datasets/spacemanidol/cc-stories  
