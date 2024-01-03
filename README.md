@@ -37,10 +37,10 @@
 ## LLM Dataset
 
 ### CommonCrawl
-- Colossal Clean Crawled Corpus (C4)
+- Colossal Clean Crawled Corpus (C4)  
  Common Crawl homepage: https://commoncrawl.org/  
  download dataset: https://paperswithcode.com/dataset/c4  
-- CCStories
+- CCStories  
  paper: https://paperswithcode.com/paper/a-simple-method-for-commonsense-reasoning  
  download dataset: https://huggingface.co/datasets/spacemanidol/cc-stories  
 - CC-News
